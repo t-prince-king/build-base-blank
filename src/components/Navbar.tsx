@@ -20,6 +20,9 @@ const Navbar = () => {
               <a href="#about" className="text-foreground hover:text-primary transition-colors duration-200">
                 About
               </a>
+              <a href="#properties" className="text-foreground hover:text-primary transition-colors duration-200">
+                Properties
+              </a>
               <a href="#contact" className="text-foreground hover:text-primary transition-colors duration-200">
                 Contact
               </a>
