@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import constructionLogo from "@/assets/construction-logo.png";
 
 const Navbar = () => {
   return (
@@ -6,7 +7,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
-            <h1 className="text-2xl font-bold text-construction-orange">BuildCorp</h1>
+            <img src={constructionLogo} alt="BuildCorp Construction" className="h-12 w-auto" />
           </div>
           
           <div className="hidden md:block">
