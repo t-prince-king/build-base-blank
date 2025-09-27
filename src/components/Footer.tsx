@@ -49,7 +49,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-300">
-          <p>&copy; 2024 BuildCorp. All rights reserved. | Privacy Policy | Terms of Service</p>
+          <p>&copy; 2025 BuildCorp. All rights reserved. | Privacy Policy | Terms of Service</p>
         </div>
       </div>
     </footer>

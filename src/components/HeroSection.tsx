@@ -27,7 +27,7 @@ const HeroSection = () => {
           <Button size="lg" className="bg-primary hover:bg-primary/90 text-white px-8 py-6 text-lg">
             Get Free Quote
           </Button>
-          <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-construction-dark px-8 py-6 text-lg">
+          <Button size="lg" variant="secondary" className="border-white text-white hover:bg-white hover:text-construction-dark px-8 py-6 text-lg">
             View Our Work
           </Button>
         </div>
